@@ -48,15 +48,5 @@
     "tag_name": "v6.4.2",
     "type": "patch",
     "version": "6.4.2"
-  },
-  {
-    "body": "<h2><a href=\"https://github.com/ionic-team/ionic-framework/compare/v6.4.0...v6.4.1\">6.4.1</a> (2022-12-14)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li><strong>breadcrumbs:</strong> breadcrumbs are reactive (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26427\">#26427</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/0d8625b95537208c188b32a1707fa66050953281\">0d8625b</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/24041\">#24041</a></li>\n<li><strong>datetime:</strong> keyboard can select hour 00 (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26423\">#26423</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/2fc96b771412d2deac6d19883bfc5abc74d0bdbd\">2fc96b7</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26409\">#26409</a></li>\n<li><strong>modal:</strong> compatibility with stencil libraries/apps (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26448\">#26448</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/1aa1068df7867a8b8a203052635da018014f5f1c\">1aa1068</a>)</li>\n<li><strong>normalize:</strong> remove normalize styles for outdated browsers (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26465\">#26465</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/82d1d948ecd7725772eb1ffee495e7a5dcadb30b\">82d1d94</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26464\">#26464</a></li>\n</ul>\n",
-    "element": "Unobtainium",
-    "name": "v6.4.1",
-    "published_at": "December 14 2022",
-    "symbol": "Uo",
-    "tag_name": "v6.4.1",
-    "type": "patch",
-    "version": "6.4.1"
   }
 ]

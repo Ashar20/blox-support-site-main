@@ -18,9 +18,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/silasashar/Documents/GitHub/blox-support-site/sidebars.js",
-          "contentPath": "/Users/silasashar/Documents/GitHub/blox-support-site/docs",
-          "contentPathLocalized": "/Users/silasashar/Documents/GitHub/blox-support-site/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "C:\\Users\\silas\\OneDrive\\Desktop\\blox-support-site-main\\sidebars.js",
+          "contentPath": "C:\\Users\\silas\\OneDrive\\Desktop\\blox-support-site-main\\docs",
+          "contentPathLocalized": "C:\\Users\\silas\\OneDrive\\Desktop\\blox-support-site-main\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "mainDocId": "index",
           "docs": [
             {
@@ -12576,9 +12576,9 @@
           "versionBadge": true,
           "versionClassName": "docs-version-v5",
           "isLast": false,
-          "sidebarFilePath": "/Users/silasashar/Documents/GitHub/blox-support-site/versioned_sidebars/version-v5-sidebars.json",
-          "contentPath": "/Users/silasashar/Documents/GitHub/blox-support-site/versioned_docs/version-v5",
-          "contentPathLocalized": "/Users/silasashar/Documents/GitHub/blox-support-site/i18n/en/docusaurus-plugin-content-docs/version-v5",
+          "sidebarFilePath": "C:\\Users\\silas\\OneDrive\\Desktop\\blox-support-site-main\\versioned_sidebars\\version-v5-sidebars.json",
+          "contentPath": "C:\\Users\\silas\\OneDrive\\Desktop\\blox-support-site-main\\versioned_docs\\version-v5",
+          "contentPathLocalized": "C:\\Users\\silas\\OneDrive\\Desktop\\blox-support-site-main\\i18n\\en\\docusaurus-plugin-content-docs\\version-v5",
           "mainDocId": "index",
           "docs": [
             {
@@ -27285,7 +27285,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=Y9GCChEAACgANwhA&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=Y9mDyREAACUAuNHD&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2022-07-11T19:50:16+0000",
           "last_publication_date": "2022-07-11T19:50:16+0000",
@@ -27336,7 +27336,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=Y9GCChEAACgANwhA&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=Y9mDyREAACUAuNHD&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2021-03-01T17:28:35+0000",
           "last_publication_date": "2022-05-31T17:25:35+0000",

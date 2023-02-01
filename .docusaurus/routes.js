@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/developer/docs/search',
-    component: ComponentCreator('/developer/docs/search','166'),
+    component: ComponentCreator('/developer/docs/search','8a1'),
     exact: true
   },
   {
