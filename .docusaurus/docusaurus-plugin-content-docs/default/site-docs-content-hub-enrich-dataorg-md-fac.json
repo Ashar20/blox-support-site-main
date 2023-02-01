@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Content Hub/Enrich/dataorg",
+  "id": "Content Hub/Enrich/dataorg",
+  "isDocsHomePage": false,
+  "title": "Saving Photos to the Filesystem",
+  "description": "We’re now able to take multiple photos and display them in a photo gallery on the second tab of our app. These photos, however, are not currently being stored permanently, so when the app is closed, they will be deleted.",
+  "source": "@site/docs/Content Hub/Enrich/dataorg.md",
+  "sourceDirName": "Content Hub/Enrich",
+  "slug": "/Content Hub/Enrich/dataorg",
+  "permalink": "/developer/docs/Content Hub/Enrich/dataorg",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Enrich/dataorg.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Data organization"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Metrics",
+    "permalink": "/developer/docs/Content Hub/Enrich/metrics"
+  },
+  "next": {
+    "title": "Create a project",
+    "permalink": "/developer/docs/Content Hub/Enrich/project"
+  }
+}
