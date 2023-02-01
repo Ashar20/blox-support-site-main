@@ -8,7 +8,7 @@ module.exports = {
   title: "Blox support",
   tagline:
     "Ionic is the app platform for web developers. Build amazing mobile, web, and desktop apps all with one shared code base and open web standards",
-  url: "https://github.com",
+  url: "https://docusaurus-2.netlify.app",
   baseUrl: `${BASE_URL}/`,
   i18n: {
     defaultLocale: "en",
